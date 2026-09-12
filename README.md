@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Nombre completo [l23212198@tijuana.tecnm.mx]
+Nombre completo:Martin Alonso Gonzalez Holguin; No. control:23212198; [l23212198@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
